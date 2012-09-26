@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">AlertExampleActivity</string>
+    <string name="app_name">Wrong Dialogue</string>
+    <string name="app_name2">Dialogue Boxes</string>
 </resources>
